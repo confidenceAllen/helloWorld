@@ -1,1 +1,2 @@
 hello everyone
+这是我第一个进入GitHub的文字
